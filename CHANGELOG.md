@@ -1,3 +1,9 @@
+## [2.1.0](https://github.com/StuwiiDev/semver-testing/compare/v2.0.0...v2.1.0) (2024-11-05)
+
+### Features
+
+* **index:** added a protending console log ([869467e](https://github.com/StuwiiDev/semver-testing/commit/869467e20380e018a9db1cdbc3902bfd50f47d58))
+
 ## [2.1.0-release-protending.1](https://github.com/StuwiiDev/semver-testing/compare/v2.0.0...v2.1.0-release-protending.1) (2024-11-05)
 
 ### Features
