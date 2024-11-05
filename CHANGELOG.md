@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/StuwiiDev/semver-testing/compare/v1.1.0...v1.2.0) (2024-11-05)
+
+### Features
+
+* added a csproj ([3591d7b](https://github.com/StuwiiDev/semver-testing/commit/3591d7b9bd52aad76c0cc648897a1247d3d78c54))
+
 ## [1.1.0](https://github.com/StuwiiDev/semver-testing/compare/v1.0.0...v1.1.0) (2024-11-05)
 
 ### Features
