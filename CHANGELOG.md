@@ -1,3 +1,13 @@
+## [2.0.0](https://github.com/StuwiiDev/semver-testing/compare/v1.2.0...v2.0.0) (2024-11-05)
+
+### ⚠ BREAKING CHANGES
+
+* **index.js:** broke something
+
+### Features
+
+* **index.js:** added console log ([dabdc8e](https://github.com/StuwiiDev/semver-testing/commit/dabdc8e3929dd4c2eb8a253caa76c8e84aa462de))
+
 ## [1.2.0](https://github.com/StuwiiDev/semver-testing/compare/v1.1.0...v1.2.0) (2024-11-05)
 
 ### Features
