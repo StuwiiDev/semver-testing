@@ -1,3 +1,9 @@
+## [2.1.0-release-whatever.1](https://github.com/StuwiiDev/semver-testing/compare/v2.0.0...v2.1.0-release-whatever.1) (2024-11-05)
+
+### Features
+
+* **program.cs:** mega new feature ([19f213e](https://github.com/StuwiiDev/semver-testing/commit/19f213e849d244dadcc861968fa5b0a693386419))
+
 ## [2.0.0](https://github.com/StuwiiDev/semver-testing/compare/v1.2.0...v2.0.0) (2024-11-05)
 
 ### ⚠ BREAKING CHANGES
