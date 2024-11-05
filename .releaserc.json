@@ -30,7 +30,7 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["CHANGELOG.md", "path/to/your/*.csproj"],
+        "assets": ["CHANGELOG.md"],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ]
