@@ -1,3 +1,10 @@
+## [2.2.0-release-whatever.1](https://github.com/StuwiiDev/semver-testing/compare/v2.1.0...v2.2.0-release-whatever.1) (2024-11-05)
+
+### Features
+
+* **program.cs:** mega new feature ([19f213e](https://github.com/StuwiiDev/semver-testing/commit/19f213e849d244dadcc861968fa5b0a693386419))
+* **program:** asldkfjaslk;fj ([9646f9c](https://github.com/StuwiiDev/semver-testing/commit/9646f9c69b6a2a512272ec415c21c05cf445e97c))
+
 ## [2.1.0-release-whatever.2](https://github.com/StuwiiDev/semver-testing/compare/v2.1.0-release-whatever.1...v2.1.0-release-whatever.2) (2024-11-05)
 
 ### Features
