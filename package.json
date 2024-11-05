@@ -1,6 +1,6 @@
 {
   "name": "semver-testing",
-  "version": "0.0.1",
+  "version": "0.0.0-semantic-versioning",
   "description": "testing semantic releases",
   "main": "index.js",
   "scripts": {
